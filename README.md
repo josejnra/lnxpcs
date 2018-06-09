@@ -1,4 +1,3 @@
-# THIS REPO WILL BE DELETED IN 3 DAYS
 # the images will be hosted in this [folder](https://mega.nz/#F!mXgW3apI!Tdikb01SoOaTmNLiaTRhMg) on mega.nz untill i find a better solution. the previews will be available at [linux.pictures](https://www.linux.pictures/) website.
 
 # lnxpcs - GNU/Linux/OpenSource related pictures
